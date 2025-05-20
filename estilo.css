@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    font-family: "Open Sans", sans-serif;
+}
+div{
+    background-color: blue;
+    color: black;
+    background: #e60000;
+background: radial-gradient(circle,rgba(230, 0, 0, 1) 0%, rgba(249, 252, 70, 1) 100%); no-repeat;
+}
+
+.avatar{
+    background-color: firebrick;
+    width:280px;
+    border: 9px solid black;
+    border-radius: 8000px;
+    background: #9600fa;
+background: linear-gradient(90deg, rgba(150, 0, 250, 1) 9%, rgba(29, 40, 253, 1) 58%, rgba(69, 252, 127, 1) 100%);
+}
